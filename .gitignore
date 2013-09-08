@@ -3,6 +3,9 @@
 # C extensions
 *.so
 
+# zip files
+*.zip
+
 # Packages
 *.egg
 *.egg-info
@@ -33,3 +36,6 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# project files
+.idea/
